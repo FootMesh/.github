@@ -2,6 +2,8 @@
 
 球脉足球（FootMesh）是一个面向中文用户的足球比分、赛程、赛果与比赛数据平台。
 
+FootMesh is a football scores, fixtures, results and match data platform for Chinese users.
+
 我们希望用更清晰、更直观的方式，帮助用户查看今日足球赛程、实时比分、比赛结果、球队近况、联赛数据、技术统计和赛后回看。
 
 官网：  
@@ -18,16 +20,22 @@ https://www.footmesh.com/zh/football
 
 ## 产品定位
 
-球脉足球不是一个简单的比分列表，而是围绕“比赛、球队、联赛、日期”构建的足球数据网络。
+球脉足球不是一个简单的比分列表，而是围绕“比赛、球队、联赛、日期和新闻”构建的足球数据网络。
 
-用户可以从一场比赛进入相关球队、所属联赛和更多赛程，快速理解比赛背后的数据脉络。
+用户可以从一场比赛进入相关球队、所属联赛、比赛日期和更多赛程，快速理解比赛背后的数据脉络。
 
 ## Brand
 
 中文品牌名：球脉足球  
 English name: FootMesh  
-Website: https://www.footmesh.com/zh/football
+Website: https://www.footmesh.com/zh/football  
+About: https://www.footmesh.com/zh/football/about
+
+## Slogan
+
+球脉足球，让足球数据更清楚。
 
 ## Contact
 
-如果你希望了解 FootMesh 的数据能力、合作方式或产品进展，可以通过官网联系我们。
+如果你希望了解 FootMesh 的数据能力、合作方式或产品进展，可以通过官网联系我们：  
+https://www.footmesh.com/zh/football/contact
